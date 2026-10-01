@@ -44,8 +44,7 @@ Estructura del proyecto:
 - images/
 
 GitHub:
-El enlace al repositorio será agregado después de realizar la publicación
-del proyecto en GitHub.
+https://github.com/Andrey7-7-7/Laboratorio_5_1
 
 Video:
 El video de demostración del laboratorio será incluido como:
